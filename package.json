@@ -1,0 +1,12 @@
+{
+  "name": "poo_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "ts-watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
